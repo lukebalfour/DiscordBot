@@ -3,6 +3,13 @@
   "version": "1.0.0",
   "description": "Dad Bot Killer",
   "main": "bot.js",
+  "scripts": {
+    "start": "node bot.js"
+  },
+  "repository": {
+    "type": "git",
+    "directory": ""
+  },
   "author": "look",
   "dependencies": {
     "discord.io": "https://github.com/woor/discord.io/tarball/gateway_v6",
